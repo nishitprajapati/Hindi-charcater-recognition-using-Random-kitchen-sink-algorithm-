@@ -1,0 +1,1 @@
+# Hindi-charcater-recognition-using-Random-kitchen-sink-algorithm-
